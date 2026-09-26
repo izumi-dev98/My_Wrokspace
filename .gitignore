@@ -1,0 +1,25 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files (consider Git LFS for these)
+*.zip
+*.rar
+*.7z
+*.iso
+
+# Logs
+*.log
